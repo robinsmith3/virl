@@ -10,7 +10,7 @@
             <entry key="Auto-generate config" type="Boolean">false</entry>
             <entry key="config" type="String">!! IOS XR Configuration 6.1.2
 !! Last configuration change at Tue Jan  2 12:40:19 2018 by cisco
-!
+!!
 !  IOS-XR Config generated on 2017-09-15 14:04
 ! by autonetkit_0.23.5
 hostname r6
